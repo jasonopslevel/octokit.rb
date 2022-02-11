@@ -3,3 +3,4 @@ bin/*
 features/**/*.feature
 -
 LICENSE.md
+https://github.com/jasonopslevel/octokit.rb.git
